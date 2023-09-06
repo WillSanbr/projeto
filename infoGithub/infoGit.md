@@ -25,7 +25,7 @@
 // inicia o git (repositório) no seu projeto
 <p style="font-weight: bold">git init</p>
 // adiciona todos os arquivos modificados do projeto ao state
-<p style="font-weight: bold">git init</p>
+<p style="font-weight: bold">git add .</p>
 //cria e descreve um ponto na história
 <p style="font-weight: bold">git commit -m "message here"</p>
 //envia alterações para o repositório remoto
